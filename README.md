@@ -1,2 +1,2 @@
-# Myrepositary
-To Practice git
+# git-commands
+Commands_repo
